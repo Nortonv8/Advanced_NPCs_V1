@@ -1,0 +1,1 @@
+This is not an advanced NPCs addon. This is what I call a 'Gmod Virus'! A disguised addon that will delete ALL files from your data/adv_duplicator and data/advdupe2 folders! This was made as a test. If you would like to try it out for yourself, make sure to back up your dupes first. I am not taking any responsibility for what happens to your dupes.
